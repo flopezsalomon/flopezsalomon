@@ -1,8 +1,8 @@
 
-### Fernando A López Salomón
----
-### Electronic Engineer | IoT Specialist
----
+# Fernando A López Salomón
+
+## Electronic Engineer | IoT Specialist
+
 Hello! 👋 I'm Fernando, an Electronic Engineer who is enthusiastic about the IoT world. I enjoy testing, experimenting, and working with microcontrollers, sensors, and protocols. 
 Feel free to connect and let's share our ideas!
 
