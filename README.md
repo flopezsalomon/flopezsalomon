@@ -19,10 +19,10 @@ And others Skills :
 
 ☁️ TCP/IP, MQTT, HTTP
 
-🎛️ Sensor Integration, Low power desing
+🎛️ Sensor Integration, Low power desing, Low level drivers development
 
 🔗 I2C, SPI, RS232, RS485, MODBUS
 
-🤖 ARM Cortex M3, PIC16Fxxx, ESP32, Arduino, Raspberry Pi
+🤖 ARM Cortex M3, Atmel,PIC16Fxxx, ESP32, Arduino, Raspberry Pi
 
 
