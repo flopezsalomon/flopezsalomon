@@ -13,16 +13,15 @@ Feel free to connect and let's share our ideas!
 
 And others Skills :
 
-💻 C/C++, Python
+💻 C / Python
 
 🔄 FreeRTOS
 
 ☁️ TCP/IP, MQTT, HTTP
 
-🎛️ Sensor Integration, Low power desing, Low level drivers development
+🎛️ Sensor Integration, Low power desing, Low level drivers development, GNSS systems
 
 🔗 I2C, SPI, RS232, RS485, MODBUS
 
 🤖 ARM Cortex M3, Atmel,PIC16Fxxx, ESP32, Arduino, Raspberry Pi
-
 
