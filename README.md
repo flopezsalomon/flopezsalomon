@@ -3,7 +3,7 @@
 
 ## Electronic Engineer | IoT Specialist
 
-"Hello! 👋 I'm Fernando, an Electronic Engineer and IoT Specialist. I'm passionate about everything related to the IoT world and really enjoy testing, experimenting, and working with microcontrollers, sensors, and protocols."
+"Hello! 👋 I'm Fernando, an Electronic Engineer and IoT Specialist. I'm passionate about everything related to the IoT world and really enjoy testing, experimenting with and working on microcontrollers, sensors, and protocols."
 
 Feel free to connect and let's share our ideas!
 
@@ -23,5 +23,5 @@ And others Skills :
 
 🔗 I2C, SPI, RS232, RS485, MODBUS
 
-🤖 ARM Cortex M3, Atmel,PIC16Fxxx, ESP32, Arduino, Raspberry Pi
+🤖 ARM Cortex M3 (STM32F103), Atmel (ATMega328PB), Microchip (PIC16Fxxx), ESP32, Arduino, Raspberry Pi
 
