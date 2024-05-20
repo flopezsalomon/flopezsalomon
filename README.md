@@ -13,13 +13,13 @@ Feel free to connect and let's share our ideas!
 
 And others Skills :
 
-💻 C / Python
+💻 Python
 
 🔄 FreeRTOS
 
 ☁️ TCP/IP, MQTT, HTTP
 
-🎛️ Sensor Integration, Low power desing, Low level drivers development, GNSS systems
+🎛️ Sensor Integration, Low power design, Low level drivers development, GNSS systems
 
 🔗 I2C, SPI, RS232, RS485, MODBUS
 
