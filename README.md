@@ -3,9 +3,11 @@
 
 ## Electronic Engineer | IoT Specialist
 
-"Hello! 👋 I'm Fernando, an Electronic Engineer and IoT Specialist. I'm passionate about everything related to the IoT world and really enjoy testing, experimenting with and working on microcontrollers, sensors, and protocols."
+👋 Hi! I'm Fernando, an Electronic Engineer and IoT Specialist. I'm passionate about everything related to the Internet of Things, exploring new technologies, testing hardware, developing firmware, and optimizing communication protocols.
 
-Feel free to connect and let's share our ideas!
+I enjoy working with microcontrollers, sensors, and embedded systems, designing innovative and efficient solutions. I'm always looking for new challenges and opportunities to share knowledge.
+
+💡 Let's connect and share ideas!
 
 #### Skills and main interests :
 
