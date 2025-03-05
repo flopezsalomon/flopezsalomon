@@ -23,5 +23,5 @@ And others Skills :
 
 🔗 I2C, SPI, RS232, RS485, MODBUS
 
-🤖 ARM Cortex M3 (STM32F103), Atmel (ATMega328PB), Microchip (PIC16Fxxx), ESP32, Arduino, Raspberry Pi
+🤖 ARM Cortex M3 (STM32F103), Atmel (ATMega328PB), Microchip (PIC16Fxxx), ESP32, Arduino, Raspberry Pi , Bluepill
 
