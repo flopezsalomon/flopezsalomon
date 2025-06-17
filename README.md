@@ -23,9 +23,9 @@ I enjoy working with microcontrollers, sensors, and embedded systems, designing 
 
 🔄 FreeRTOS
 
-☁️ TCP/IP, MQTT, HTTP
+☁️ TCP/IP, MQTT(S), HTTP(S)
 
-🎛️ Sensor Integration, Low power design, Low level drivers development, 
+🎛️ Sensor Integration, Low power design, Low level drivers development
 
 🛰️ GNSS systems
 
